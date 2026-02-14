@@ -38,7 +38,7 @@ O dashboard apresenta os seguintes indicadores principais:
 
 <img src="dashboard.png" alt="Dashboard Power BI" width="800"/>
 
-*(Adicione a imagem do dashboard no repositório com o nome `dashboard.png`)*
+
 
 ---
 
